@@ -2,12 +2,17 @@
   "name": "fb-bot-claudia",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "claudia": "claudia"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alessio Coser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessioCoser/fb-bot-claudia.git"
+  },
+  "author": "Alessio Coser",
+  "license": "MIT",
   "dependencies": {
     "claudia-bot-builder": "^2.12.0",
     "huh": "^2.0.1"
