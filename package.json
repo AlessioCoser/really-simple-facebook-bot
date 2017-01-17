@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "claudia": "claudia"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "claudia-bot-builder": "^2.12.0",
     "huh": "^2.0.1"
+  },
+  "devDependencies": {
+    "claudia": "^2.5.0"
   }
 }
