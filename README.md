@@ -9,7 +9,7 @@
 
 ## Setup Facebook
 
-1. clone repo
+1. `git clone https://github.com/AlessioCoser/fb-bot-claudia.git`
 2. `npm install`
 3. `npm run claudia -- create --region us-east-1 --api-module bot`
 4. Configure Facebook Messenger App
