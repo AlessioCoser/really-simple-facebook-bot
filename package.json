@@ -1,5 +1,5 @@
 {
-  "name": "fb-bot-claudia",
+  "name": "really-simple-facebook-bot",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
@@ -9,7 +9,7 @@
   "author": "Alessio Coser",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlessioCoser/fb-bot-claudia.git"
+    "url": "git+https://github.com/AlessioCoser/really-simple-facebook-bot.git"
   },
   "author": "Alessio Coser",
   "license": "MIT",
