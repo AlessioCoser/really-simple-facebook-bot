@@ -37,5 +37,6 @@ You don't need to install ClaudiaJS globally because it's a dependency of the pr
 5. You will be requested to enter
     - `Facebook Page Access Token`: the access Token from page associated to the Facebook Messenger App
     - `Facebook App Secret`: the app secret from Facebook Messenger App
-4. Configure the WebHook into Facebook Developer App Console by insering `WebHook URL` and `Verify Token` from step **4**.
-5. Publish your Facebook Messenger App
+6. Configure the WebHook into Facebook Developer App Console by insering `WebHook URL` and `Verify Token` from step **4**.
+7. Publish your Facebook Messenger App
+8. You have to submit your Messenger Application to Facebook in order to be able to respond to Facebook users that are not admins, developers or testers of your application.
